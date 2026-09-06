@@ -22,7 +22,7 @@ I like full-stack development, ML/AI, and DSA. What ties it all together is that
 
 Long-term, I want to become a genuinely strong software engineer — someone who builds products people actually use, not just projects that sit in a GitHub repo.
 
-<div align="center">
+<div align="left">
 
 ```text
 🎓  MCA — Machine Learning
@@ -186,19 +186,19 @@ I'm also generally curious about new technologies and random ideas that turn int
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/KeethuKotian">
 <img src="https://img.shields.io/badge/GitHub-1A0A12?style=for-the-badge&logo=github&logoColor=FFE3D6" alt="GitHub" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/keerthan-kotian-458565305/">
 <img src="https://img.shields.io/badge/LinkedIn-3A1420?style=for-the-badge&logo=linkedin&logoColor=FFE3D6" alt="LinkedIn" />
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://keethukotian.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-7A1620?style=for-the-badge&logo=firefox&logoColor=FFF3C4" alt="Portfolio" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:keerthankotian05@gmail.com">
 <img src="https://img.shields.io/badge/Email-C81E3A?style=for-the-badge&logo=gmail&logoColor=FFF3C4" alt="Email" />
 </a>
 
