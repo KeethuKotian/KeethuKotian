@@ -36,7 +36,7 @@ I'm an MCA student specializing in Machine Learning, and most of my time goes in
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" alt="Java, Python, JavaScript, TypeScript, C" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c" alt="Java, Python, JavaScript, C" />
 
 **Frontend**
 <br/>
