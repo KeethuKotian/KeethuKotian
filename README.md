@@ -115,62 +115,6 @@ Turning random ideas into working projects — and learning most of what I know 
 
 <img src="./assets/divider.svg" width="100%" />
 
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### FitAI
-An AI-based personalized fitness and diet recommendation system.
-
-**Focus:** Personalization · ML models · Recommendation logic · Data processing
-
-**Stack:** Python • Machine Learning
-
-[Repository →](YOUR_REPO_LINK)
-
-</td>
-<td width="50%" valign="top">
-
-### Real-Time Chat Application
-A real-time messaging application built with a modern frontend and backend architecture.
-
-**Focus:** Real-time communication · WebSockets · REST APIs · Backend architecture
-
-**Stack:** Spring Boot • React • WebSockets
-
-[Repository →](YOUR_REPO_LINK)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### XO Arena
-A multiplayer Tic-Tac-Toe application.
-
-**Focus:** Game logic · Real-time interaction · Backend persistence · Multiplayer architecture
-
-**Stack:** Spring Boot • React • MongoDB
-
-[Repository →](YOUR_REPO_LINK)
-
-</td>
-<td width="50%" valign="top">
-
-### Project Management System
-A full-stack application for managing projects and tasks.
-
-**Focus:** CRUD operations · Authentication · Backend APIs · Database management
-
-**Stack:** React • Spring Boot • MySQL
-
-[Repository →](YOUR_REPO_LINK)
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ How I Build
 
