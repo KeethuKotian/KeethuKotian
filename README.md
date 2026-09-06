@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-banner.svg" alt="Hero banner: a lone figure stands beneath a blossoming tree as sakura petals drift across a sunset sky" width="100%" />
+<img src="./assets/hero-banner.svg" alt="Hero banner: a lone silhouetted figure stands beneath a blazing sky as embers and petals drift past a crimson sunset" width="100%" />
 
 <br/>
 
@@ -13,6 +13,11 @@
 </div>
 
 <br/>
+
+<table width="100%">
+<tr>
+<td width="40" valign="top"><img src="./assets/rail.svg" width="100%" alt="" /></td>
+<td valign="top">
 
 ## About Me
 
@@ -52,9 +57,9 @@ I'm an MCA student specializing in Machine Learning, and most of my time goes in
 
 **AI / ML**
 <br/>
-<img src="https://img.shields.io/badge/-Scikit--learn-2A1B3D?style=flat-square&logo=scikitlearn&logoColor=F2A65A" />
-<img src="https://img.shields.io/badge/-PyTorch-2A1B3D?style=flat-square&logo=pytorch&logoColor=FF8FA3" />
-<img src="https://img.shields.io/badge/-NLP-2A1B3D?style=flat-square&logoColor=FFE3D6" />
+<img src="https://img.shields.io/badge/-Scikit--learn-1A0A12?style=flat-square&logo=scikitlearn&logoColor=FFC93C" />
+<img src="https://img.shields.io/badge/-PyTorch-1A0A12?style=flat-square&logo=pytorch&logoColor=FF8FA3" />
+<img src="https://img.shields.io/badge/-NLP-1A0A12?style=flat-square&logoColor=FFE3D6" />
 
 **Tools**
 <br/>
@@ -115,7 +120,6 @@ Turning random ideas into working projects — and learning most of what I know 
 
 <img src="./assets/divider.svg" width="100%" />
 
-
 ## 🛠️ How I Build
 
 ```text
@@ -164,12 +168,17 @@ Outside of writing code, I'm usually deep into anime and manga, gaming, or music
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-2A1B3D?style=for-the-badge&logo=github&logoColor=FFE3D6" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-7A3A6E?style=for-the-badge&logo=linkedin&logoColor=FFE3D6" /></a>
-<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-E15C4F?style=for-the-badge&logo=firefox&logoColor=FFF6E5" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-4A2E6B?style=for-the-badge&logo=gmail&logoColor=FFE3D6" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-1A0A12?style=for-the-badge&logo=github&logoColor=FFE3D6" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-3A1420?style=for-the-badge&logo=linkedin&logoColor=FFE3D6" /></a>
+<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-7A1620?style=for-the-badge&logo=firefox&logoColor=FFF3C4" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-C81E3A?style=for-the-badge&logo=gmail&logoColor=FFF3C4" /></a>
 
 </div>
+
+</td>
+<td width="40" valign="top"><img src="./assets/rail.svg" width="100%" alt="" /></td>
+</tr>
+</table>
 
 <br/>
 
