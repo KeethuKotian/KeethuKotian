@@ -144,9 +144,6 @@ Idea → Explore → Design → Build → Break → Debug → Improve → Ship
 
 I wouldn't call myself good at these yet — I'm actively working on getting there:
 
-* Data Structures & Algorithms
-* Advanced Java
-* Backend Development
 * Machine Learning
 * AI / NLP
 * System Design
