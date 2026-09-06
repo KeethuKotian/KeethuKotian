@@ -128,7 +128,7 @@ An AI-based personalized fitness and diet recommendation system.
 
 **Stack:** Python • Machine Learning
 
-[Repository →](YOUR_REPO_LINK) · [Live Demo →](YOUR_LIVE_DEMO)
+[Repository →](YOUR_REPO_LINK)
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +140,7 @@ A real-time messaging application built with a modern frontend and backend archi
 
 **Stack:** Spring Boot • React • WebSockets
 
-[Repository →](YOUR_REPO_LINK) · [Live Demo →](YOUR_LIVE_DEMO)
+[Repository →](YOUR_REPO_LINK)
 
 </td>
 </tr>
@@ -154,7 +154,7 @@ A multiplayer Tic-Tac-Toe application.
 
 **Stack:** Spring Boot • React • MongoDB
 
-[Repository →](YOUR_REPO_LINK) · [Live Demo →](YOUR_LIVE_DEMO)
+[Repository →](YOUR_REPO_LINK)
 
 </td>
 <td width="50%" valign="top">
@@ -166,7 +166,7 @@ A full-stack application for managing projects and tasks.
 
 **Stack:** React • Spring Boot • MySQL
 
-[Repository →](YOUR_REPO_LINK) · [Live Demo →](YOUR_LIVE_DEMO)
+[Repository →](YOUR_REPO_LINK)
 
 </td>
 </tr>
