@@ -216,6 +216,6 @@ Thanks for stopping by 🌸
 
 <br/>
 
-<img src="./assets/footer-banner.svg" width="100%" alt="Footer banner" />
+<img src="./assets/footer.jpeg" width="100%" alt="Footer banner" />
 
 </div>
