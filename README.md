@@ -23,7 +23,7 @@
 
 I'm an MCA student specializing in Machine Learning, and most of my time goes into building things and figuring out how they actually work under the hood. I like full-stack development, I like ML/AI, and I like DSA more than I probably let on. What ties it together is that I'd rather understand a library than just import it and move on. Long-term, I want to be a genuinely strong software engineer — someone who builds products people actually use, not just projects that sit in a GitHub repo.
 
-<div align="center">
+<div align="left">
 
 ```text
 🎓  MCA — Machine Learning
